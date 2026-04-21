@@ -23,3 +23,6 @@ SCH for MO
 OT Flag generally works that after regular 40 hours have exceeded, the earning desc on the same day would change and have OT in it with the hours.
 
 For the OT, just take the values of OT and sum them
+----------
+
+Data is taken from TH hourly, joined with ML store. Then by having the OBT joined, the data for OT is extracted and pivot is used to show. 260422, was able to perform the join.
