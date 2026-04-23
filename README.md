@@ -26,3 +26,11 @@ For the OT, just take the values of OT and sum them
 ----------
 
 Data is taken from TH hourly, joined with ML store. Then by having the OBT joined, the data for OT is extracted and pivot is used to show. 260422, was able to perform the join.
+
+------
+# Report
+Sheets made from the report:
+
+Pay Period Wise OT Summary
+Current Week OT
+E.wise OT (Week) Home Location
