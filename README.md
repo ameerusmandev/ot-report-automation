@@ -36,3 +36,10 @@ Current Week OT
 E.wise OT (Week) Home Location
 E.wise OT (PP) Home Location
 TODO: Emp Hrs (current PP)
+
+# Tips
+
+When it mentions home department in the report, then use the home department UID, not the key, as the key often contains the Distribution Department
+
+# Updates
+24 April 2026: Pausing at creating of Emp Hrs (current PP). It is working to an extent but there seems to be some issues in the data (I am suspecting the matching of the Dist Department Code and Home Department Code issue as the report specifiaclly uses Home Department Code). Generally it is generating the data but some of the hours need to be verified.
